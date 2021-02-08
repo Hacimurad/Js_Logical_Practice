@@ -61,6 +61,7 @@ function wordsfirst(text) {
   var val2 = wordsfirst("Javascript dili çox populyar dildi");
   console.log(val2); 
   
+  
 // ---------------------------------------------------
 
 

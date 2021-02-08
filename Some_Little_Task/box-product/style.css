@@ -1,0 +1,16 @@
+select{
+    background-color: rebeccapurple;
+    color: white;
+}
+
+button{
+    background-color: rebeccapurple;
+    color: white;
+}
+#result{
+    width: 400px;
+    height: 400px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    background-color: violet;
+}
